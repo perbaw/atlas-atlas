@@ -1,0 +1,695 @@
+Country,Code,Population
+Abidjan, a, n
+Abuja, a, a
+Accra, a, a
+Adana, a, a
+Addis Ababa, a, a
+Afghanistan, a, n
+Agra, a, a
+Ahmedabad, a, d
+Albania, a, a
+Aleppo, a, o
+Alexandria, a, a
+Algeria, a, a
+Algiers, a, s
+Almaty, a, y
+Amman, a, n
+Andorra, a, a
+Angola, a, a
+Ankang, a, g
+Ankara, a, a
+Anqing, a, g
+Anshan, a, n
+Anshun, a, n
+Antananarivo, a, o
+Antigua and Barbuda, a, a
+Argentina, a, a
+Armenia, a, a
+Athens, a, s
+Atlanta, a, a
+Austin, a, n
+Australia, a, a
+Austria, a, a
+Awka, a, a
+Azerbaijan, a, n
+Baghdad, b, d
+Bahrain, b, n
+Baicheng, b, g
+Baicheng, b, g
+Baku, b, u
+Balandougou, b, u
+Baltimore, b, e
+Bamako, b, o
+Bamenda, b, a
+Bangalore, b, e
+Bangkok, b, k
+Bangladesh, b, h
+Baoding, b, g
+Baojishi, b, i
+Baoshan, b, n
+Baotou, b, u
+Barbados, b, s
+Barcelona, b, a
+Bazhou, b, u
+Beihai, b, i
+Beijing, b, g
+Beirut, b, t
+Bekasi, b, i
+Bekasi Kota, b, a
+Belarus, b, s
+Belgium, b, m
+Belize, b, e
+Belo Horizonte, b, e
+Bengbu, b, u
+Benin, b, n
+Berlin, b, n
+Bhopal, b, l
+Bhutan, b, n
+Bijie, b, e
+Bilaspur, b, r
+Binzhou, b, u
+Birmingham, b, m
+Blantyre, b, e
+Boankra, b, a
+Bogota, b, a
+Bolivia, b, a
+Bosnia and Herzegovina, b, a
+Boston, b, n
+Botswana, b, a
+Bozhou, b, u
+Brasilia, b, a
+Brazil, b, l
+Brazzaville, b, e
+Brisbane, b, e
+Brooklyn, b, n
+Brunei, b, i
+Bucharest, b, t
+Budapest, b, t
+Buenos Aires, b, s
+Bulgaria, b, a
+Burkina Faso, b, o
+Bursa, b, a
+Burundi, b, i
+Busan, b, n
+Cairo, c, o
+Cali, c, i
+Caloocan City, c, y
+Cambodia, c, a
+Cameroon, c, n
+Canada, c, a
+Cangzhou, c, u
+Cape Town, c, n
+Cape Verde, c, e
+Caracas, c, s
+Casablanca, c, a
+Central African Republic, c, c
+Chad, c, d
+Changchun, c, n
+Changde, c, e
+Changsha, c, a
+Changshu, c, u
+Changzhi, c, i
+Changzhou, c, u
+Chaoyang, c, g
+Chaozhou, c, u
+Chattogram, c, m
+Chengdu, c, u
+Chengtangcun, c, n
+Chennai, c, i
+Chenzhou, c, u
+Chicago, c, o
+Chifeng, c, g
+Chile, c, e
+China, c, a
+Chongqing, c, g
+Chongzuo, c, o
+Chuzhou, c, u
+Cincinnati, c, i
+Cleveland, c, d
+Colombia, c, a
+Colombo, c, o
+Columbus, c, s
+Comoros, c, s
+Conakry, c, y
+Congo, c, o
+Cordoba, c, a
+Costa Rica, c, a
+Croatia, c, a
+Cuba, c, a
+Curitiba, c, a
+Cyprus, c, s
+Czechia, c, a
+Daegu, d, u
+Dalian, d, n
+Dallas, d, s
+Damascus, d, s
+Dandong, d, g
+Daqing, d, g
+Dar es Salaam, d, m
+Davao, d, o
+Dazhou, d, u
+Delhi, d, i
+Democratic Republic of the Congo, d, o
+Denmark, d, k
+Denver, d, r
+Depok, d, k
+Detroit, d, t
+Deyang, d, g
+Dezhou, d, u
+Dhaka, d, a
+Dingxi, d, i
+Diyarbakir, d, r
+Djibouti, d, i
+Dominica, d, a
+Dominican Republic, d, c
+Dongguan, d, n
+Douala, d, a
+Dubai, d, i
+East Timor, e, r
+Ecatepec, e, c
+Ecuador, e, r
+Egypt, e, t
+El Salvador, e, r
+Equatorial Guinea, e, a
+Eritrea, e, a
+Esfahan, e, n
+Estonia, e, a
+Eswatini, e, i
+Ethiopia, e, a
+Faisalabad, f, d
+Federated States of Micronesia, f, a
+Fiji, f, i
+Finland, f, d
+Fortaleza, f, a
+Foshan, f, n
+France, f, e
+Fukuoka, f, a
+Fushun, f, n
+Fuxin, f, n
+Fuyang, f, g
+Fuzhou, f, u
+Fuzhou, f, u
+Gabon, g, n
+Ganzhou, g, u
+Gaoping, g, g
+Gazipura, g, a
+Georgia, g, a
+Germany, g, y
+Ghana, g, a
+Ghaziabad, g, d
+Giza, g, a
+Greece, g, e
+Grenada, g, a
+Guadalajara, g, a
+Guang'an, g, n
+Guangyuan, g, n
+Guangzhou, g, u
+Guatemala, g, a
+Guatemala City, g, y
+Guayaquil, g, l
+Guigang, g, g
+Guilin, g, n
+Guinea, g, a
+Guinea-Bissau, g, u
+Guiyang, g, g
+Gujranwala, g, a
+Gulou, g, u
+Guyana, g, a
+Haikou, h, u
+Haiphong, h, g
+Haiti, h, i
+Hamburg, h, g
+Handan, h, n
+Hangzhou, h, u
+Hanoi, h, i
+Hanzhong, h, g
+Harare, h, e
+Harbin, h, n
+Havana, h, a
+Hebi, h, i
+Hechi, h, i
+Hefei, h, i
+Heihe, h, e
+Hengshui, h, i
+Hengyang, h, g
+Heyuan, h, n
+Heze, h, e
+Hezhou, h, u
+Ho Chi Minh City, h, y
+Hohhot, h, t
+Honduras, h, s
+Hong Kong, h, g
+Houston, h, n
+Huai'an, h, n
+Huaibei, h, i
+Huaihua, h, a
+Huainan, h, n
+Huanggang, h, g
+Huanglongsi, h, i
+Huangshi, h, i
+Huizhou, h, u
+Huludao, h, o
+Hungary, h, y
+Hyderabad, h, d
+Hyderabad City, h, y
+Ibadan, i, n
+Iceland, i, d
+Incheon, i, n
+India, i, a
+Indianapolis, i, s
+Indonesia, i, a
+Indore, i, e
+Iran, i, n
+Iraq, i, q
+Ireland, i, d
+Israel, i, l
+Istanbul, i, l
+Italy, i, y
+Ivory Coast, i, t
+Izmir, i, r
+Jaipur, j, r
+Jakarta, j, a
+Jamaica, j, a
+Japan, j, n
+Jeddah, j, h
+Ji'an, j, n
+Jiamusi, j, i
+Jiangguanchi, j, i
+Jiangmen, j, n
+Jiangyin, j, n
+Jiaozuo, j, o
+Jieyang, j, g
+Jilin, j, n
+Jinan, j, n
+Jincheng, j, g
+Jingdezhen, j, n
+Jining, j, g
+Jinzhou, j, u
+Jiujiang, j, g
+Jixi, j, i
+Johannesburg, j, g
+Jordan, j, n
+Kabul, k, l
+Kampala, k, a
+Kananga, k, a
+Kano, k, o
+Kanpur, k, r
+Kansas City, k, y
+Kaohsiung, k, g
+Karachi, k, i
+Karaj, k, j
+Kazakhstan, k, n
+Kenya, k, a
+Khartoum, k, m
+Khowrhesht, k, t
+Kinshasa, k, a
+Kiribati, k, i
+Kolkata, k, a
+Konya, k, a
+Kosovo, k, o
+Kotla Qasim Khan, k, n
+Kowloon, k, n
+Kuala Lumpur, k, r
+Kumasi, k, i
+Kunming, k, g
+Kuwait, k, t
+Kuwait City, k, y
+Kyiv, k, v
+Kyrgyzstan, k, n
+La Paz, l, z
+Lagos, l, s
+Lahore, l, e
+Laibin, l, n
+Langfang, l, g
+Lanzhou, l, u
+Laos, l, s
+Las Vegas, l, s
+Latvia, l, a
+Lebanon, l, n
+Leon de los Aldama, l, a
+Leshan, l, n
+Lesotho, l, o
+Lianshan, l, n
+Liaocheng, l, g
+Liaoyang, l, g
+Liberia, l, a
+Libya, l, a
+Liechtenstein, l, n
+Lima, l, a
+Lincang, l, g
+Linfen, l, n
+Linyi, l, i
+Lishui, l, i
+Lithuania, l, a
+Liuzhou, l, u
+London, l, n
+Longba, l, a
+Longyan, l, n
+Los Angeles, l, s
+Loudi, l, i
+Lu'an, l, n
+Luanda, l, a
+Lubumbashi, l, i
+Lucknow, l, w
+Ludhiana, l, a
+Luohe, l, e
+Luoyang, l, g
+Lusaka, l, a
+Luxembourg, l, g
+Luzhou, l, u
+Ma'anshan, m, n
+Madagascar, m, r
+Madrid, m, d
+Malang, m, g
+Malawi, m, i
+Malaysia, m, a
+Maldives, m, s
+Mali, m, i
+Malta, m, a
+Manaus, m, s
+Manhattan, m, n
+Manila, m, a
+Maoming, m, g
+Marshall Islands, m, s
+Mashhad, m, d
+Masqat, m, t
+Masvingo, m, o
+Mauritania, m, a
+Mauritius, m, s
+Mbuji-Mayi, m, i
+Mecca, m, a
+Medan, m, n
+Medellin, m, n
+Meishan, m, n
+Meizhou, m, u
+Melbourne, m, e
+Mersin, m, n
+Mexico, m, o
+Mexico City, m, y
+Miami, m, i
+Mianyang, m, g
+Minneapolis, m, s
+Minsk, m, k
+Mirzapur, m, r
+Mogadishu, m, u
+Moldova, m, a
+Monaco, m, o
+Mongolia, m, a
+Montenegro, m, o
+Monterrey, m, y
+Montevideo, m, o
+Montreal, m, l
+Morocco, m, o
+Moscow, m, w
+Mosul, m, l
+Mozambique, m, e
+Mudanjiang, m, g
+Multan, m, n
+Mumbai, m, i
+Munich, m, h
+Myanmar, m, r
+Nagoya, n, a
+Nagpur, n, r
+Nairobi, n, i
+Namibia, n, a
+Nanchang, n, g
+Nanchong, n, g
+Nangandao, n, o
+Nanjing, n, g
+Nanning, n, g
+Nanping, n, g
+Nantong, n, g
+Nanyang, n, g
+Nauru, n, u
+Neijiang, n, g
+Nepal, n, l
+Netherlands, n, s
+New York, n, k
+New Zealand, n, d
+Nicaragua, n, a
+Niger, n, r
+Nigeria, n, a
+Ningbo, n, o
+Ningde, n, e
+North Korea, n, a
+North Macedonia, n, a
+Norway, n, y
+Novosibirsk, n, k
+Oman, o, n
+Omdurman, o, n
+Orlando, o, o
+Osaka, o, a
+Ouagadougou, o, u
+Pakistan, p, n
+Palau, p, u
+Panama, p, a
+Papua New Guinea, p, a
+Paraguay, p, y
+Paris, p, s
+Patna, p, a
+Perth, p, h
+Peru, p, u
+Peshawar, p, r
+Philadelphia, p, a
+Philippines, p, s
+Phnom Penh, p, h
+Phoenix, p, x
+Pimpri-Chinchwad, p, d
+Pingdingshan, p, n
+Pingliang, p, g
+Pingxiang, p, g
+Pittsburgh, p, h
+Poland, p, d
+Port Harcourt, p, t
+Portland, p, d
+Portugal, p, l
+Pudong, p, g
+Puebla, p, a
+Pune, p, e
+Puning, p, g
+Putian, p, n
+Puyang, p, g
+Pyongyang, p, g
+Qatar, q, r
+Qinbaling, q, g
+Qincheng, q, g
+Qingdao, q, o
+Qingyang, q, g
+Qingyuan, q, n
+Qinhuangdao, q, o
+Qinzhou, q, u
+Qiqihar, q, r
+Quanzhou, q, u
+Queens, q, s
+Quezon City, q, y
+Quito, q, o
+Qujing, q, g
+Rajkot, r, t
+Rajshahi, r, i
+Rangoon, r, n
+Rawalpindi, r, i
+Rio de Janeiro, r, o
+Riverside, r, e
+Riyadh, r, h
+Rizhao, r, o
+Romania, r, a
+Rome, r, e
+Russia, r, a
+Rwanda, r, a
+Sacramento, s, o
+Saint Petersburg, s, g
+Salvador, s, r
+Samoa, s, a
+San Antonio, s, o
+San Diego, s, o
+San Francisco, s, o
+San Jose, s, e
+San Juan, s, n
+San Marino, s, o
+Sanaa, s, a
+Sanmenxia, s, a
+Sanming, s, g
+Santa Cruz, s, z
+Santa Cruz de la Sierra, s, a
+Santiago, s, o
+Santos, s, s
+Sanzhou, s, u
+Sao Paulo, s, o
+Sao Tome and Principe, s, e
+Sapporo, s, o
+Saudi Arabia, s, a
+Seattle, s, e
+Semarang, s, g
+Senegal, s, l
+Seoul, s, l
+Serbia, s, a
+Seychelles, s, s
+Shanghai, s, i
+Shangqiu, s, u
+Shangrao, s, o
+Shangzhou, s, u
+Shantou, s, u
+Shanwei, s, i
+Shaoguan, s, n
+Shaoxing, s, g
+Shaoyang, s, g
+Shengli, s, i
+Shenyang, s, g
+Shenzhen, s, n
+Shijiazhuang, s, g
+Shiraz, s, z
+Shiyan, s, n
+Shuozhou, s, u
+Shuyangzha, s, a
+Sierra Leone, s, e
+Singapore, s, e
+Singapore, s, e
+Siping, s, g
+Slovakia, s, a
+Slovenia, s, a
+Solomon Islands, s, s
+Somalia, s, a
+South Africa, s, a
+South Korea, s, a
+South Sudan, s, n
+Spain, s, n
+Sri Lanka, s, a
+St Kitts and Nevis, s, s
+St Lucia, s, a
+St Vincent, s, t
+St. Louis, s, s
+Stockholm, s, m
+Stuttgart, s, t
+Sudan, s, n
+Suihua, s, a
+Suining, s, g
+Supaul, s, l
+Suqian, s, n
+Surabaya, s, a
+Surat, s, t
+Suriname, s, e
+Suzhou, s, u
+Suzhou, s, u
+Sweden, s, n
+Switzerland, s, d
+Sydney, s, y
+Syria, s, a
+Tai'an, t, n
+Taichung, t, g
+Tainan, t, n
+Taipei, t, i
+Taiyuan, t, n
+Taizhou, t, u
+Taizhou, t, u
+Tajikistan, t, n
+Tampa, t, a
+Tangerang, t, g
+Tangshan, t, n
+Tanzania, t, a
+Tashkent, t, t
+Tegucigalpa, t, a
+Tehran, t, n
+Thailand, t, d
+Thane, t, e
+The Bahamas, t, s
+The Gambia, t, a
+Tianjin, t, n
+Tieling, t, g
+Tijuana, t, a
+Tilburg, t, g
+Togo, t, o
+Tokyo, t, o
+Tonga, t, a
+Tongliao, t, o
+Tongren, t, n
+Tongshan, t, n
+Toronto, t, o
+Trinidad and Tobago, t, o
+Tunisia, t, a
+Turkey, t, y
+Turkmenistan, t, n
+Tuvalu, t, u
+Uganda, u, a
+Ukraine, u, e
+United Arab Emirates, u, s
+United Kingdom, u, m
+United States, u, s
+Uruguay, u, y
+Urumqi, u, i
+Uzbekistan, u, n
+Vadodara, v, a
+Valencia, v, a
+Vancouver, v, r
+Vanuatu, v, u
+Vatican City, v, y
+Venezuela, v, a
+Vienna, v, a
+Vietnam, v, m
+Vishakhapatnam, v, m
+Warsaw, w, w
+Washington, w, n
+Weifang, w, g
+Weihai, w, i
+Weinan, w, n
+Wenzhou, w, u
+Wuhan, w, n
+Wuhu, w, u
+Wuwei, w, i
+Wuxi, w, i
+Wuzhou, w, u
+Xi'an, x, n
+Xiamen, x, n
+Xiangtan, x, n
+Xiangyang, x, g
+Xianyang, x, g
+Xiaoganzhan, x, n
+Xiaoxita, x, a
+Ximeicun, x, n
+Xingtai, x, i
+Xining, x, g
+Xinpu, x, u
+Xinyang, x, g
+Xinzhou, x, u
+Xiping, x, g
+Xuanzhou, x, u
+Yan'an, y, n
+Yancheng, y, g
+Yangjiang, y, g
+Yangzhou, y, u
+Yanjiang, y, g
+Yantai, y, i
+Yaounde, y, e
+Yemen, y, n
+Yibin, y, n
+Yichun, y, n
+Yinchuan, y, n
+Yingkou, y, u
+Yiyang, y, g
+Yokohama, y, a
+Yongzhou, y, u
+Yopougon, y, n
+Yulin, y, n
+Yulinshi, y, i
+Yuncheng, y, g
+Yunfu, y, u
+Yushan, y, n
+Yuxi, y, i
+Zambia, z, a
+Zamboanga City, z, y
+Zaozhuang, z, g
+Zhangjiakou, z, u
+Zhangzhou, z, u
+Zhanjiang, z, g
+Zhaoqing, z, g
+Zhaotong, z, g
+Zhengzhou, z, u
+Zhenjiang, z, g
+Zhongli, z, i
+Zhongshan, z, n
+Zhoukou, z, u
+Zhuhai, z, i
+Zhumadian, z, n
+Zhuzhou, z, u
+Zibo, z, o
+Zigong, z, g
+Zunyi, z, i
